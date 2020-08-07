@@ -6,8 +6,4 @@ H5仿夸克浏览器主页修改
 # 图标来源
 * Pure轻雨图标包
 # 感谢开源项目
-* jquery
-* sortablejs
-* Swiper
-* TouchSwipe
-* requirejs
+H5仿夸克浏览器主页
